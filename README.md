@@ -27,4 +27,4 @@ We do not sell or share your data with third parties, except for the service pro
 Authentication tokens are stored locally in Chrome's extension storage on your device.
 
 ## Contact
-For privacy questions, contact: support@your-domain.example
+For privacy questions, contact: support@weirdfisheslab.com
