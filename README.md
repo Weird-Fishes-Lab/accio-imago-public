@@ -1,6 +1,6 @@
 # Privacy Policy — Accio Imago
 
-Last updated: 2025-01-01
+Last updated: 2026-01-01
 
 Accio Imago is a Chrome Extension that helps users download images from Google Slides. This policy explains what data is collected and how it is used.
 
